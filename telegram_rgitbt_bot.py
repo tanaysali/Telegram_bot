@@ -23,7 +23,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Define your bot token as a constant
-TOKEN: Final = '6085496671:AAF23dF_yCH48ztkMt2ZP6Spdf63TB2hNsQ'
+TOKEN: Final = 'Token'
 BOT_USERNAME: Final = '@Tanay_chat_bot'
 
 # Command Handlers
